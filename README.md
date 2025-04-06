@@ -21,3 +21,5 @@
  </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifryed&show_icons=true&locale=en" alt="ifryed" /></p>
+
+![](https://komarev.com/ghpvc/?username=ifyred&color=brightgreen)
