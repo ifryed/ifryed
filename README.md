@@ -2,8 +2,8 @@
 <h3 align="center">Ph.D. candidate at BMIC</h3>
 
 - <img src="https://static.alphaxiv.org/logos/alphaxiv_logo.png" alt="git" width="20" height="20"/>[AlphaxivLabs profile](https://shaiaharon.alphaxiv.io/)
-- 👨‍🎓Ph.D. candidate at the [BioMedical Imaging Computing Lab](https://github.com/BMICLab) @ Ben-Gurion University
-- 🔭 I’m currently working on **using GNNs on medical imaging** in order to help make the 🌎 a better place.
+- 👨‍🎓Ph.D. student at the [BioMedical Imaging Computing Lab](https://github.com/BMICLab) @ Ben-Gurion University
+- 🔭 I’m currently working on **using GNNs on medical imaging** in order to make the 🌎 a better place.
 - 🌱 I’m always interested in **advancements in GNNs**
 - 📫 How to reach me:
     - ifryed@gmail.com
